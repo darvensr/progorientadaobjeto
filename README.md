@@ -20,3 +20,9 @@
    
 **Gerador de Tabuada**
     Gera a tabuada de um número fornecido pelo usuário.
+
+## Como Executar
+
+Instale o JDK.
+Compile o código com `javac NomeDaClasse.java`.
+Execute o programa com `java NomeDaClasse`.
